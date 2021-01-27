@@ -25,4 +25,4 @@ There are four folders (one for each day) that contain the notebooks we will wal
 
 **First, open the Anaconda Navigator application.** You should see the green snake logo appear on your screen and this could take a few minutes to load up the first time. Then click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the "Python Fundamentals" folder you downloaded above. Then, open the "Day_1" folder and click **02_Jupyter Notebooks.ipynb** to begin. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
-Much of the Python-Fundamentals materials were 
+Much of the Python-Fundamentals materials were adapted from dlab,Udemy (Python BootCamp)
