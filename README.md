@@ -1,4 +1,3 @@
-# PythonCourse
 # Python Training Course
 
 This is the repository for  introductory Python-Fundamentals series. 
