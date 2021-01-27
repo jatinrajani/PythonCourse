@@ -14,7 +14,7 @@ This is the repository for  introductory Python-Fundamentals series.
 * Extract this file someplace familiar (we recommend Desktop) 
 
 
-> If you are a Git user, simply clone this repository by opening a terminal and typing: `git clone git@github.com:dlab-berkeley/python-fundamentals.git`
+> If you are a Git user, simply clone this repository by opening a terminal and typing: `git clone https://github.com/jatinrajani/PythonCourse`
 
 
 There are four folders (one for each day) that contain the notebooks we will walk through for each day: 
