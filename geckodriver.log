@@ -1,0 +1,94 @@
+1611735613742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jatin\\AppData\\Local\\Temp\\rust_mozprofileKr4oWs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611735617669	Marionette	INFO	Listening on port 54561
+1611735617868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/Debatetextsearch16.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/Debatetextsearch16.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/Debatetextsearch16.aspx, line 17: TypeError: $(...).flexslider is not a function
+1611736221964	Marionette	INFO	Stopped listening on port 54561
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611736231930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jatin\\AppData\\Local\\Temp\\rust_mozprofileaEPnAj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611736233763	Marionette	INFO	Listening on port 54852
+1611736233945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/Debatetextsearch16.aspx, line 17: TypeError: $(...).flexslider is not a function
+1611736244541	Marionette	INFO	Stopped listening on port 54852
+1611736279716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jatin\\AppData\\Local\\Temp\\rust_mozprofiletYP77A"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611736282006	Marionette	INFO	Listening on port 54927
+1611736282333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+1611737609184	Marionette	INFO	Stopped listening on port 54927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611737154131	Marionette	INFO	Listening on port 55760
+1611737154551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+1611737609169	Marionette	INFO	Stopped listening on port 55760
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611737613745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jatin\\AppData\\Local\\Temp\\rust_mozprofileZBxTbT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611737616161	Marionette	INFO	Listening on port 56295
+1611737616380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 289: TypeError: this.element is null
+1611737735882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 289: TypeError: this.element is null
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/DebateAdvSearch17.aspx, line 17: TypeError: $(...).flexslider is not a function
+JavaScript error: resource://gre/actors/SelectParent.jsm, line 276: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: http://loksabhaph.nic.in/Debates/Result17.aspx?dbsl=4557, line 17: TypeError: $(...).flexslider is not a function
+JavaScript error: resource://gre/actors/SelectParent.jsm, line 276: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611743457489	Marionette	INFO	Stopped listening on port 56295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
